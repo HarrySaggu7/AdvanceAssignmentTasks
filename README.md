@@ -100,7 +100,7 @@ Running All Tasks
 
 Each task is a separate React Native project. Navigate to any task directory and follow the steps above.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Framework: React Native
 
 Language: TypeScript
@@ -115,10 +115,11 @@ Storage: AsyncStorage, SQLite
 
 UI Components: React Native core components
 
-📚 Assignment Details
+## 📚 Assignment Details
 Each task demonstrates specific React Native concepts:
 
 Core Concepts Covered
+
 ✅ Component lifecycle management
 
 ✅ State and props management
